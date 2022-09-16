@@ -24,7 +24,25 @@
         <div class="text col-sm-12" >
             to download useful code, please follow this <a href="https://github.com/JRL-CARI-CNR-UNIBS/installation/blob/master/installation_multiple_workspace.md">installation</a> <br>
             follow the manual installation procedure until "workspace 2: control repository" <br>
+            at this point, please do the following 
+        </div>
+        <div class="cmdline">
+            mkdir -p ~/gt_ws/src <br>
+            cd ~/gt_ws<br>
+            catkin init<br>
+            wstool init src<br>
+            mkdir rosinstall<br>
+            wget https://raw.githubusercontent.com/paolofrance/paolofrance.github.io/master/gt_ws.rosinstall <br>
+            wstool merge -t src ./rosinstall/gt_ws.rosinstall <br>
+            wstool update -t src<br>
+            rosdep install --from-paths src --ignore-src -r -y<br>
+            catkin config -j 2<br>
+            catkin build -cs --mem-limit 30%<br>
 
+        </div>
+
+        <div class="text col-sm-12" >
+            you are now ready to try it
         </div>
     </div>
 
