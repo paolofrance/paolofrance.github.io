@@ -32,7 +32,7 @@
             catkin init<br>
             wstool init src<br>
             mkdir rosinstall<br>
-            wget https://raw.githubusercontent.com/paolofrance/paolofrance.github.io/master/gt_ws.rosinstall <br>
+            wget https://raw.githubusercontent.com/paolofrance/paolofrance.github.io/master/gt_ws.rosinstall  -P ./rosinstall <br>
             wstool merge -t src ./rosinstall/gt_ws.rosinstall <br>
             wstool update -t src<br>
             rosdep install --from-paths src --ignore-src -r -y<br>
