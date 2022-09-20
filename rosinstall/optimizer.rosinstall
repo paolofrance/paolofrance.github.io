@@ -4,10 +4,10 @@
     version: paolo
 - git:
     local-name: iiwa_stack
-    https://github.com/IFL-CAMP/iiwa_stack.git
+    uri: https://github.com/IFL-CAMP/iiwa_stack.git
 - git:
     local-name: object_loader
-    https://github.com/CNR-STIIMA-IRAS/object_loader.git
+    uri: https://github.com/CNR-STIIMA-IRAS/object_loader.git
 - git:
     local-name: position_optimizer
     uri: https://github.com/CNR-STIIMA-IRAS/position_optimizer.git
