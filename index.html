@@ -12,40 +12,19 @@
     <div id="bottoni"></div>
 
     <div class="main">
-        
-        <div class="titoli" >
-        </div>
-        
-        <div class="info" >
-            website under construction 
-        </div>
+        <h6>
+            
+            <img src="images/pf_color.jpg" style="float:left;  width: 20%; height: auto;border-radius: 25px; border: 2px solid black; ">
+            My name is Paolo Franceschi. <br>
+            I received a B.Sc. in aerospace engineering and an M.Sc. in mechanical engineering from Politecnico of Milano in 2015 and 2017, respectively. <br>
+            During my studies, I had the opportunity to work on my master thesis project at IBM Almaden Research Center in San Jos&egrave;, California.
+            There I spent about six months developing a bipedal platform. My main activities were modeling the bipedal robot and implementing basic control strategies to allow robust walking. <br>
+            Since January 2018, I have been a research fellow at STIIMA-CNR. My main research focuses are interaction control and workspace optimization for manipulating and assembling large objects. <br>
+            I was involved in the H2020 Eureca project, aiming to automatize the assembly of the airplane's interior. (2018-2020) <br>
+            I am currently involved in the <a href="https://www.drapebot.eu/">H2020 DrapeBot project</a> (2021-2024), where I am developing controllers for the shared transport of carbon fiber plies. <br> 
+            Since November 2020, I have also been a Ph.D. student at the University of Brescia (UniBs), where I am focussing on developing control for physical Human-Robot Interaction (pHRI) based on game theory.
 
-        <div class="text" >
-            to download useful code, please follow this <a href="https://github.com/JRL-CARI-CNR-UNIBS/installation/blob/master/installation_multiple_workspace.md">installation</a> <br>
-            follow the manual installation procedure until "workspace 2: control repository" <br>
-            at this point, please do the following to install the packages to use the UR5 and the game-theoretical controllers
-        </div>
-
-        <div class="cmdline">
-            <pre>
-$ mkdir -p ~/gt_ws/src
-$ cd ~/gt_ws
-$ catkin init
-$ wstool init src
-$ mkdir rosinstall
-$ wget https://raw.githubusercontent.com/paolofrance/paolofrance.github.io/master/rosinstall/gt_ws.rosinstall  -P ./rosinstall 
-$ wstool merge -t src ./rosinstall/gt_ws.rosinstall 
-$ wstool update -t src
-$ rosdep install --from-paths src --ignore-src -r -y
-$ catkin config -j 2
-$ catkin build -cs --mem-limit 30%
-            </pre>
-        </div>
-
-        <div class="text" >
-            you are now ready to try it
-        </div>
-        
+   </h6>
     </div>
 
     <div class="footer">

@@ -9,16 +9,45 @@
     <div id="header"></div>
     <div id="bottoni"></div>
     
-    <div>
-        <p class="titoli">
-            Code available here
-        </p>
-    </div>
-    <div class="info col-sm-12" >
-        should you find anythin interesting, here you can download Matlab simulations of most of my work, as well as, where available the implemented code
-    </div>
-    
 
+    <div class="main">
+        
+        <div class="titoli" >
+        </div>
+        
+        <h4 >
+            !!! under construction !!! 
+        <h4>
+
+        <h6>
+            to download useful basic code, please follow this <a href="https://github.com/JRL-CARI-CNR-UNIBS/installation/blob/master/installation_multiple_workspace.md">installation</a> <br>
+            follow the manual installation procedure until "workspace 2: control repository" 
+        <h6>
+        <h6>
+            at this point, please do the following to install the packages to use the UR5 and the game-theoretical controllers
+        </h6>
+
+        <div class="cmdline">
+            <pre>
+$ mkdir -p ~/gt_ws/src
+$ cd ~/gt_ws
+$ catkin init
+$ wstool init src
+$ mkdir rosinstall
+$ wget https://raw.githubusercontent.com/paolofrance/paolofrance.github.io/master/rosinstall/gt_ws.rosinstall  -P ./rosinstall 
+$ wstool merge -t src ./rosinstall/gt_ws.rosinstall 
+$ wstool update -t src
+$ rosdep install --from-paths src --ignore-src -r -y
+$ catkin config -j 2
+$ catkin build -cs --mem-limit 30%
+            </pre>
+        </div>
+        
+    </div>
+
+    <div class="footer">
+        <div id="social"></div>
+    </div>
 
 </body>
 </html>

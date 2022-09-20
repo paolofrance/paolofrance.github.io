@@ -3,15 +3,16 @@
 <head>   
     <script src="jquery/jquery-3.6.0.min.js"></script> 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style/slideshow.css"> 
-    <script src="script/slideshow.js"></script>
     <script src="script/load.js"></script>
+    <script src="script/thesis.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+  </head>
 
 <body>
 
+
 <div id="header"></div>
+<link rel="stylesheet" href="style/thesis.css"> 
 <div id="bottoni"></div>
 
 
@@ -29,33 +30,130 @@
         <li data-rel="2" >Inverse Optimal Control/Inverse Reinforcement Learning for physical Human-Robot Interaction</li>
         <li data-rel="3" >Inverse Optimal Control/Inverse Reinforcement Learning for Human-Human dyad</li>
         <li data-rel="4" >Bayesian optimization for complex robot workspaces optimization</li>
+        <li data-rel="5" >Learning role arbitration between Human and Robot</li>
       </ul>
     </nav>
-    
-  <section>
+
+  <section >
     <article>
-      <h4>Game theory</h4>
+      <h4>Nonlinear Cooperative Differential Game Theory for physical Human-Robot Interaction</h4>
+      <p>
+        Game theory is the study of mathematical models of strategic interactions among rational agents.
+        It was proven that also in physical Human-Robot Interaction game theory provides a useful tool for modeling and control of the robot.
+        Many studies investigates the Linear case, this thesis wants to investigate the nonlinear case, implements possible solutions and verify the method on a real robotic platform.
+      </p>
     </article>
   </section>
 
-  <section>
+  <section class="thesis" >
     <article>
-      <h4>IOC for pHRI</h4>
+      <h4>Inverse Optimal Control/Inverse Reinforcement Learning for physical Human-Robot Interaction </h4>
+      <p>
+        Optimal control aims at minimizing a cost function to provide optimal control input. Conversely, Inverse Optimal Control seeks the cost function that produced a known control input, given such control input and state history.
+        The objective of the thesis is to recover the cost function of a human performing a shared task with a robot, and analysis of the data to understand and analyze if the human prefers a Cooperative or Non-Cooperative behavior of the robot.
+        This will allow future applications to design controllers for more natural Human-Robot Interaction.
+        <br>
+        The main activities will be: 
+        <ol> 
+          <li> 
+            identification of the cost function’s relevant features (i.e., cost function’s structure)
+          </li>
+          <li>
+            implementation of IOC/IRL algorithms and selection of the best one
+          </li>
+          <li>
+            design of experiments and data collection with a robot.
+          </li>
+          <li>
+            analysis of the data to understand which model fits better (cooperative/non-cooperative/others)
+          </li>
+      </ol>
+      <ul>
+        Note: preferred skills (can also be acquired during the thesis):
+        <li> Python</li>
+        <li> Matlab</li>
+        <li> ROS</li>
+      </ul>
+      </p>
     </article>
   </section>
 
-  <section>
+  <section class="thesis" >
     <article>
       <h4>IOC to understand human behavior</h4>
+      <p>
+        Optimal control aims at minimizing a cost function to provide optimal control input. Conversely, Inverse Optimal Control seeks the cost function that produced a known control input, given such control input and state history.
+        The objective of the thesis is to recover the cost function of a humans' dyad performing a shared task, and analysis of the data to understand if their behavior can be described by Cooperative or Non-Cooperative game theory or other models (to be identified), and which better fits.
+        This will allow future applications to design controllers for more natural Human-Robot Interaction.
+        <br>
+        The main activities will be: 
+        <ol> 
+          <li> 
+            identification of the cost function’s relevant features (i.e., cost function’s structure)
+          </li>
+          <li>
+            implementation of IOC/IRL algorithms and selection of the best one
+          </li>
+          <li>
+            design of experiments and data collection with human dyads.
+          </li>
+          <li>
+            analysis of the data to understand which model fits better (cooperative/non-cooperative/others)
+          </li>
+      </ol>
+      <ul>
+        Note: preferred skills (can also be acquired during the thesis):
+        <li> Python</li>
+        <li> Matlab</li>
+        <li> ROS</li>
+      </ul>
+    </p>
     </article>
   </section>
 
-  <section>
+  <section class="thesis" >
     <article>
       <h4>Bayesian optimization of workcell</h4>
+      <p>
+        Bayesian optimization to create a tool for robot workspace optimization.
+      </p>
+
     </article>
   </section>
 
+  <section class="thesis" >
+    <article>
+      <h4>Learning role arbitration between Human and Robot</h4>
+      <p>
+        Role Arbitration defines the mechanism that assigns control of a shared task to either the human or the robot. In a shared task between a human and a robot, it is important to select who has the control authority.
+        The objective of this thesis is to define a law that allows smooth and continuous role arbitration between a human and a robot.
+        Possible features to be considered can be minimum jerk, safety requirements, foreseen collisions.
+
+        The main activities will be: 
+        <ol> 
+          <li> 
+            identification and optimization of the role arbitration law (possible techniques are Fuzzy logic, reinforcement learning)
+          </li>
+          <li>
+            Design of experiments and implementation of the control law on a real robot
+          </li>
+          <li>
+            Data collection and analysis to compare the proposed approach with other states of the art
+            approaches
+          </li>
+      </ol>
+      <ul>
+        Note: preferred skills (can also be acquired during the thesis):
+        <li> Python/C++</li>
+        <li> Matlab</li>
+        <li> ROS</li>
+      </ul>
+        
+      </p>
+    </article>
+  </section>
+
+  
     </section>
 
 
@@ -67,10 +165,6 @@
 
 
 
-
-  <!-- <div class="info " >
-    here you can find the list of activities I am working on and possible thesis proposal. If you are interested, contact me! 
-  </div> -->
   
 </div>
 
