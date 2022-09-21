@@ -14,3 +14,4 @@ $(function($) {
         $('section nav li:nth-of-type('+$(this).data('rel')+')').addClass('nav-hover').siblings().removeClass('nav-hover');
     });
   })(jQuery);
+

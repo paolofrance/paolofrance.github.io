@@ -4,7 +4,7 @@ $(function(){
 });
 
 $(function(){
-    $("#bottoni").load("bottoni.html"); 
+    $("#my_navbar").load("navbar.html"); 
 });
 
 $(function(){
