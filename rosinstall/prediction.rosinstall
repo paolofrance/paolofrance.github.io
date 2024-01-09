@@ -1,7 +1,0 @@
-- git:
-    local-name: lstm_predictor
-    uri:  https://github.com/paolofrance/lstm_predictor.git
-- git:
-    local-name: human_traj_estimator
-    uri:  https://github.com/paolofrance/human_traj_estimator.git
-
