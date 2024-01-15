@@ -7,11 +7,13 @@ permalink: /research/
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z07C4092J3"></script>
 
 
-## Physical Human-Robot Interaction
+
+# DrapeBot
+### Physical Human-Robot Interaction
+
+### Collaborative transport of flexible materials
+
 ___
-
-During my Ph.D. I studied the physical Human-Robot Interaction with a particular focus to the Role arbitration
-
 # Cleansky H2020 EURECA
 ### Robotic planning and interaction in complex environments
 
