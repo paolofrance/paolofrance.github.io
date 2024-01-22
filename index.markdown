@@ -5,7 +5,7 @@
 layout: home
 ---
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z07C4092J3"></script>
-
+<meta name="google-site-verification" content="9unXf0AJi0aPBon8QJz0gFG9YFuIUYQhVOjDDDbwA0Y" />
 
 ![](/images/pf_color.jpg){: style="float: left" width="250px" border-radius: 25px; border: 2px solid black}
 
