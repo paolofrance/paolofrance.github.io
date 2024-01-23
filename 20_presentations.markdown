@@ -17,7 +17,7 @@ permalink: /presentations/
 ## Conferences 
 
 ### 2023
-**IROS**  - *Learning human motion intention for phri assistive control* -  [pfd](IROS23_1737.pdf) - [poster](IROS23_poster.pdf) -[video]()   
+**IROS**  - *Learning human motion intention for phri assistive control* -  [pfd](IROS23_1737.pdf) - [poster](IROS23_poster.pdf) -[video](https://www.youtube.com/watch?v=e9f_mnAWm-w)   
 **UR**    - *Human preferences’ optimization in phri collaborative tasks* -   [pfd](UR2023_PF.pdf)    
 **ICAR**  - *Modeling and analysis of pHRI with Differential Game Theory* -   [pfd](franceschi_79_ICAR2023.pdf) - [video](https://www.youtube.com/watch?v=D5_tS7FTI0U)  
 
