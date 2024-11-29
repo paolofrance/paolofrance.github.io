@@ -83,8 +83,8 @@ In 2018 IEEE International Conference on Systems, Man, andCybernetics (SMC), pag
 
 ### Ph.D. thesis
 
-[*Human modeling, Game Theory, and Role Arbitration for physical Human-Robot Interaction*](pdf)     
-**Paolo Franceschi***  
+[*Human modeling, Game Theory, and Role Arbitration for physical Human-Robot Interaction*](https://github.com/paolofrance/paolofrance.github.io/blob/master/pdf/pf_PhD_Thesis.pdf)     
+***Paolo Franceschi***  
 2024
 
 ### Master thesis
