@@ -17,7 +17,7 @@ permalink: /publications/
 ## Journal Publications
 ___
 
-[*Design of an Assistive Controller for Physical Human–Robot Interaction Based on Cooperative Game Theory and Human Intention Estimation*](https://ieeexplore.ieee.org/abstract/document/10606422)
+[*Design of an Assistive Controller for Physical Human–Robot Interaction Based on Cooperative Game Theory and Human Intention Estimation*](https://ieeexplore.ieee.org/abstract/document/10606422)  
 ***Paolo Franceschi**,  Davide Cassinelli, Nicola Pedrocchi, Manuel Beschi, Paolo Rocco*  
 IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2024.3429643,
 2024.
@@ -83,7 +83,7 @@ In 2018 IEEE International Conference on Systems, Man, andCybernetics (SMC), pag
 
 ### Ph.D. thesis
 
-[*Human modeling, Game Theory, and Role Arbitration for physical Human-Robot Interaction*](https://tesidottorato.depositolegale.it/static/PDF/web/viewer.jsp)  
+[*Human modeling, Game Theory, and Role Arbitration for physical Human-Robot Interaction*](pdf)     
 **Paolo Franceschi***  
 2024
 
