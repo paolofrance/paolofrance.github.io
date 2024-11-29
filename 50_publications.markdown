@@ -17,14 +17,20 @@ permalink: /publications/
 ## Journal Publications
 ___
 
-[*Identification of human control law during physical human–robot interaction*](https://www.sciencedirect.com/science/article/pii/S0957415823000429)  
-***P. Franceschi**, N. Pedrocchi, and M. Beschi*  
-Mechatronics, volume 92, page 102986, 2023
+[*Design of an Assistive Controller for Physical Human–Robot Interaction Based on Cooperative Game Theory and Human Intention Estimation*](https://ieeexplore.ieee.org/abstract/document/10606422)
+***Paolo Franceschi**,  Davide Cassinelli, Nicola Pedrocchi, Manuel Beschi, Paolo Rocco*  
+IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2024.3429643,
+2024.
+
 
 [*Human–robot role arbitration via differential game theory*](https://ieeexplore.ieee.org/abstract/document/10275780)   
 ***Franceschi, Paolo**, Nicola Pedrocchi, and Manuel Beschi*  
 IEEE Transactions on Automation Science and Engineering, pages 1–16,
 2023.
+
+[*Identification of human control law during physical human–robot interaction*](https://www.sciencedirect.com/science/article/pii/S0957415823000429)  
+***P. Franceschi**, N. Pedrocchi, and M. Beschi*  
+Mechatronics, volume 92, page 102986, 2023
 
 [*Optimal design of robotic work-cell through hierarchical manipulability maximization*](https://www.sciencedirect.com/science/article/pii/S0736584522000886)  
 ***P. Franceschi**, S. Mutti, and N. Pedrocchi*  
@@ -74,8 +80,17 @@ In 2020 IEEE International Conference on Robotics and Automation (ICRA), pages 6
 *Loris Roveda, Nicola Castaman, Stefano Ghidoni, **Franceschi, Paolo**, Nicolò Boscolo, Enrico Pagello, and Nicola Pedrocchi*  
 In 2018 IEEE International Conference on Systems, Man, andCybernetics (SMC), pages 339–344. IEEE, 2018.
 
+
+### Ph.D. thesis
+
+[*Human modeling, Game Theory, and Role Arbitration for physical Human-Robot Interaction*](https://tesidottorato.depositolegale.it/static/PDF/web/viewer.jsp)  
+**Paolo Franceschi***  
+2024
+
 ### Master thesis
 
 [*Modeling and control of humanoid robot locomotion*](https://www.politesi.polimi.it/handle/10589/133799)  
 *Tommaso Bonini, **Paolo Franceschi***  
 2017
+
+
