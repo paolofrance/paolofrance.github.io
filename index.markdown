@@ -31,4 +31,7 @@ I was also involved in the [H2020 DrapeBot project](https://www.drapebot.eu/) (2
 From November 2020 to November 2023, I have also been a Ph.D. student at the department of Mechanical Engineering of the University of Brescia (UniBs), in the [Automatic Control for Intelligent Robots (CARI)](https://cari.unibs.it/) lab under the supervision of Prof. Manuel Beschi.
 There, I worked on developing control for physical Human-Robot Interaction (pHRI). The main topic addressed were modeling human behavior, modeling ionteraction with a Game-Theoretic framework, and the dynamic leader-follower role arbitration between human and robot.
 
-Since October 2023 I am a researcher at SUPSI in Lugano. I am currently involved in the [Horizon Europe Fluently](https://www.fluently-horizonproject.eu/) project, where I study learning methods for teaching robots new tasks.  
+From October 2023 to June 2025 I have been a researcher at SUPSI in Lugano. I was involved in the [Horizon Europe Fluently](https://www.fluently-horizonproject.eu/) project, where I study learning methods for teaching robots new tasks.  
+
+
+Since July 2025, I am Researcher at [Istituto Dalle Molle di studi sull'intelligenza artificiale (IDSIA-USI-SUPSI)](https://www.idsia.usi-supsi.ch/), in the group of Prof. Loris Roveda.
