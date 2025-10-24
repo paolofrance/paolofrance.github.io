@@ -19,8 +19,8 @@ layout: home
 <img src="/images/pf_color.jpg" alt="PaoloFranceschi" align="left" width="200px" style="margin-right: 15px; border-radius: 15px; border:1px solid black" /> 
 
 My name is Paolo Franceschi.
-I am currently a reseracher at [the University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), in the
-[Automation Robotics and Machines Laboratory (ARM lab)](https://sites.supsi.ch/isteps_en/Laboratories/gruppo1.html), under the supervision of Prof. Anna Valente.  
+I am currently a reseracher at [Istituto Dalle Molle di studi sull'intelligenza artificiale (IDSIA-USI-SUPSI)](https://www.idsia.usi-supsi.ch/), in the group of Prof. Loris Roveda.
+  
 I received a B.Sc. in aerospace engineering and an M.Sc. in mechanical engineering from [Politecnico of Milano](https://www.polimi.it/en)  in 2015 and 2017, respectively.  
 During my studies, I had the opportunity to work on my master thesis project at the  [IBM Almaden Research Center](https://research.ibm.com/labs/almaden) in San Jos&egrave;, California.
 There I spent about six months developing a bipedal platform. My main activities were modeling the bipedal robot and implementing control strategies to allow robust walking.  
