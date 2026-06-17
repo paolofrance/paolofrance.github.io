@@ -3,28 +3,18 @@ layout: page
 title: Presentations
 permalink: /presentations/
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z07C4092J3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Z07C4092J3');
-</script>
-<meta name="google-site-verification" content="9unXf0AJi0aPBon8QJz0gFG9YFuIUYQhVOjDDDbwA0Y" />
 
 ## Conferences 
 
 ### 2023
-**IROS**  - *Learning human motion intention for phri assistive control* -  [pfd](IROS23_1737.pdf) - [poster](IROS23_poster.pdf) -[video](https://www.youtube.com/watch?v=e9f_mnAWm-w)   
-**UR**    - *Human preferences’ optimization in phri collaborative tasks* -   [pfd](UR2023_PF.pdf)    
-**ICAR**  - *Modeling and analysis of pHRI with Differential Game Theory* -   [pfd](franceschi_79_ICAR2023.pdf) - [video](https://www.youtube.com/watch?v=D5_tS7FTI0U)  
+**IROS**  - *Learning human motion intention for phri assistive control* -  [pdf](IROS23_1737.pdf) - [poster](IROS23_poster.pdf) -[video](https://www.youtube.com/watch?v=e9f_mnAWm-w)   
+**UR**    - *Human preferences’ optimization in phri collaborative tasks* -   [pdf](UR2023_PF.pdf)    
+**ICAR**  - *Modeling and analysis of pHRI with Differential Game Theory* -   [pdf](franceschi_79_ICAR2023.pdf) - [video](https://www.youtube.com/watch?v=D5_tS7FTI0U)  
 
 ___
 ### 2022
-**ETFA**  - *Inverse optimal control for the identification of human objective: a preparatory study for physical human-robot interaction* -  [pfd](etfa2022_ws_PF.pdf)  
-**ICRA**  - *Adaptive impedance controller for human-robot arbitration based on cooperative differential game theory* -  [pfd](icra2022_ppt_template.pdf)  - [poster](ICRA2022poster.pdf) - [video](https://www.youtube.com/watch?v=Sav6q9Dbt_E)  
+**ETFA**  - *Inverse optimal control for the identification of human objective: a preparatory study for physical human-robot interaction* -  [pdf](etfa2022_ws_PF.pdf)  
+**ICRA**  - *Adaptive impedance controller for human-robot arbitration based on cooperative differential game theory* -  [pdf](icra2022_ppt_template.pdf)  - [poster](ICRA2022poster.pdf) - [video](https://www.youtube.com/watch?v=Sav6q9Dbt_E)  
 
 ___
 ### 2021
